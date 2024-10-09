@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Caroline Sanicola",
-    "label": "Data Analyst",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "carolinesanicola@gmail.com",
-    "phone": "(347) 721-4993",
-    "url": "https://csanicola74.github.io/",
-    "summary": "A New York born ball of sarcasm",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "32 Williams Ave",
-      "postalCode": "NY 11742",
-      "city": "Holtsville",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
       "countryCode": "US",
-      "region": "New York"
+      "region": "California"
     },
     "profiles": [
       {
@@ -36,6 +36,7 @@
   "volunteer": [
     {
       "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
       "position": "Lead Organizer",
       "url": "https://example.com",
       "startDate": "2014-04-01",
